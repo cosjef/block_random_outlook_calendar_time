@@ -1,6 +1,6 @@
 # Random Outlook Calendar Time Blocker
 
-A Python script that generates random calendar events and saves them as an .ics file, which can be imported into any calendar application (Apple Calendar, Google Calendar, Outlook, etc.). The script creates realistic-looking calendar blocks with proper distribution of meetings and focus time throughout the work week.
+A Python script that generates random calendar events and saves them as an .ics file, which can be imported into any calendar application (Apple Calendar, Google Calendar, Outlook, etc.). The script creates calendar blocks with proper distribution of meetings and focus time throughout the work week.
 
 ## Features
 
